@@ -1,0 +1,15 @@
+D:\git\desafio-estacionamento\bin\Debug\net6.0\desafio-estacionamento.exe
+D:\git\desafio-estacionamento\bin\Debug\net6.0\desafio-estacionamento.deps.json
+D:\git\desafio-estacionamento\bin\Debug\net6.0\desafio-estacionamento.runtimeconfig.json
+D:\git\desafio-estacionamento\bin\Debug\net6.0\desafio-estacionamento.dll
+D:\git\desafio-estacionamento\bin\Debug\net6.0\desafio-estacionamento.pdb
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.csproj.AssemblyReference.cache
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.AssemblyInfoInputs.cache
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.AssemblyInfo.cs
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.csproj.CoreCompileInputs.cache
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.dll
+D:\git\desafio-estacionamento\obj\Debug\net6.0\refint\desafio-estacionamento.dll
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.pdb
+D:\git\desafio-estacionamento\obj\Debug\net6.0\desafio-estacionamento.genruntimeconfig.cache
+D:\git\desafio-estacionamento\obj\Debug\net6.0\ref\desafio-estacionamento.dll
